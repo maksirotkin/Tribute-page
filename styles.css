@@ -1,0 +1,30 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+ul{
+    max-width: 550px;
+    margin: 10px auto 0 auto;
+    text-align: left;
+}
+blockquote{
+    max-width: 550px;
+    margin: 20px auto 0 auto;
+    text-align: left;
+    font-style: italic;
+}
+blockquote p{
+    font-style: italic;
+}
+img{
+    min-width: 500px;
+   max-width: 70%;
+   height: auto;
+    margin: 0 auto 0 auto;
+}
+#img-caption{
+    display: block;
+}
