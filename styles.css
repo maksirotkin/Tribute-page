@@ -5,6 +5,20 @@ body{
     color: #333;
     margin: 0;
 }
+main{
+    background: #eee;
+    margin: 50px;
+    border-radius: 20px;
+}
+h1{  
+    padding: 30px;
+    padding-bottom: 5px;
+}
+main p{
+    margin-top: 0px;
+padding-bottom: 15px;
+}
+
 ul{
     max-width: 550px;
     margin: 10px auto 0 auto;
@@ -16,15 +30,24 @@ blockquote{
     text-align: left;
     font-style: italic;
 }
-blockquote p{
-    font-style: italic;
+#img-div{
+    padding-bottom: 15px;
 }
 img{
-    min-width: 500px;
+    display: block;
    max-width: 70%;
    height: auto;
-    margin: 0 auto 0 auto;
+   margin: 0 auto;
+   padding-bottom: 15px;
 }
 #img-caption{
     display: block;
+     font-style: italic;
+}
+#tribute-info{
+    padding-bottom: 15px;
+}
+.info{
+   
+        padding: 15px;
 }
